@@ -1,8 +1,8 @@
-- name: Homepage
+- name: /home
   link: /
-- name: Now
+- name: /now
   link: /now
-- name: Uses
+- name: /uses
   link: /uses
-- name: Blog
+- name: /blog
   link: /blog

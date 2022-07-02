@@ -18,22 +18,20 @@
     </section>
     <footer>
       <hr>
-      <nav style="float: left; width: 50%;">
+      <!-- <nav style="float: left; width: 50%;">
         <a href="/">~data</a>
         <a href="/now">/now</a>
         <a href="/uses">/uses</a>
         <a href="/blog">/blog</a>
-      </nav>
-      <div style="float: right; width: 50%;"><p align="right" style="font-family: var(--nc-font-mono);">⭐️From <a href="https://github.com/datastring">@datastring</a></p></div>
-    
-      <nav>
+      </nav> -->
+      <nav style="float: left; width: 50%;">
         {% for item in site.data.navigation %}
           <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
             {{ item.name }}
-          </a>
+          </a>&nbsp;
         {% endfor %}
       </nav>
-
+      <div style="float: right; width: 50%;"><p align="right" style="font-family: var(--nc-font-mono);">⭐️From <a href="https://github.com/datastring">@datastring</a></p></div>
     </footer>
   </body>
 </html>
