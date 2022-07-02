@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Data to Knowledge"
-tags: markdown blogging introduction
+tags: markdown blogging introduction 2022-07-02
 date: 2022-07-02
 ---
 # {{ page.title }}

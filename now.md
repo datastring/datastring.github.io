@@ -1,5 +1,5 @@
 ---
-type: mainpage
+layout: mainpage
 title: /now
 url: /now
 ---
