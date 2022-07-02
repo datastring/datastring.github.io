@@ -15,8 +15,7 @@ url: /blog
 </ul>
 
 ## Experimental Section
-
-
+<div>
   {% for post in site.posts %}
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p><span>{{ post.date }}</span></p>
@@ -24,7 +23,7 @@ url: /blog
       {{ post.content }}
       </div>
   {% endfor %}
-
+</div>
 <!-- <ul>
   {% for post in site.posts %}
     <li>
