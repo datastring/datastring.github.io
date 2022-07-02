@@ -1,6 +1,5 @@
 ---
 title: data's base
-layout: default
 ---
 
 <p align="center">
