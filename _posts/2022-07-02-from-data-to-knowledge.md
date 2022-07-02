@@ -1,7 +1,7 @@
 ---
-title: From Data to Knowledge
-url: /blog/from-data-to-knowledge/
-type: post
+layout: post
+title: "From Data to Knowledge"
+tags: markdown blogging introduction
 ---
 # {{ page.title }}
 
