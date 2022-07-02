@@ -5,26 +5,17 @@ url: /blog
 ---
 ## Latest Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-## Experimental Section
 <div>
   {% for post in site.posts %}
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <!-- <p><span>{{ post.date | date: "%Y-%m-%d"}}</span></p> -->
-      <p><i>{{ post.date | date: "%Y-%m-%d"}}</i></p>
+      <p><i>Posted on {{ post.date | date: "%Y-%m-%d"}}</i></p>
       <div>
       {{ post.content }}
       </div>
   {% endfor %}
 </div>
+
 <!-- <ul>
   {% for post in site.posts %}
     <li>
@@ -42,3 +33,12 @@ url: /blog
     {% endfor %}
   </ul>
 {% endfor %} -->
+
+<!-- <ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul> -->
