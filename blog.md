@@ -1,10 +1,9 @@
 ---
-title: Shallow Learning
+title: "Shallow Learning"
 url: /blog
 ---
 # {{ page.title }}
 <br>
-
 <ul>
   {% for post in site.posts %}
     <li>
