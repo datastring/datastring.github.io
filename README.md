@@ -1,6 +1,3 @@
----
----
-
 <p align="center">
     <br>
     <br>
