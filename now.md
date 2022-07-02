@@ -1,8 +1,8 @@
 ---
 title: /now
 ---
-# /now
-*Last updated on June 17, 2022*
+# {{ page.title }}
+*Last updated on July 02, 2022*
 
 >This page is inspired by [Derek Sivers](https://nownownow.com/about). In it, you can stay up-to-date with exactly what I'm up to at this point in my life.
 
