@@ -18,7 +18,8 @@ url: /blog
 <div>
   {% for post in site.posts %}
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p><span>{{ post.date }}</span></p>
+      <!-- <p><span>{{ post.date | date: "%Y-%m-%d"}}</span></p> -->
+      <p><i>{{ post.date | date: "%Y-%m-%d"}}</i></p>
       <div>
       {{ post.content }}
       </div>
