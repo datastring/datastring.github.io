@@ -11,7 +11,7 @@ url: /blog
       <!-- <p><span>{{ post.date | date: "%Y-%m-%d"}}</span></p> -->
       <p><i>Posted on {{ post.date | date: "%Y-%m-%d"}}</i></p>
       <div>
-      {{ post.content }}
+      {{ post.content | truncatewords: 100 }}
       </div>
   {% endfor %}
 </div>
