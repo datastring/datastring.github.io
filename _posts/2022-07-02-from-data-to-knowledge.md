@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "From Data to Knowledge"
-tags: markdown blogging introduction 2022-07-02
-date: 2022-07-02
+tags: markdown blogging introduction
+date: 2022-06-17
 ---
 Hi, there. 👋 For your own sake, I hope you are not lost.  
 Let me help you figure out if you are... 😅
