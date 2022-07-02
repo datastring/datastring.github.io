@@ -1,0 +1,8 @@
+- name: Homepage
+  link: /
+- name: Now
+  link: /now
+- name: Uses
+  link: /uses
+- name: Blog
+  link: /blog

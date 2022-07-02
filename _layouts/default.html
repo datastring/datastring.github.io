@@ -25,6 +25,15 @@
         <a href="/blog">/blog</a>
       </nav>
       <div style="float: right; width: 50%;"><p align="right" style="font-family: var(--nc-font-mono);">⭐️From <a href="https://github.com/datastring">@datastring</a></p></div>
+    
+      <nav>
+        {% for item in site.data.navigation %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+            {{ item.name }}
+          </a>
+        {% endfor %}
+      </nav>
+
     </footer>
   </body>
 </html>
