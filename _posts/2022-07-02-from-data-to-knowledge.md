@@ -7,7 +7,7 @@ date: 2022-07-02
 Hi, there. 👋 For your own sake, I hope you are not lost.  
 Let me help you figure out if you are... 😅
 
->TL;DR available at the bottom of the post. ~data
+>TL;DR available at the bottom of the post.<br>~data
 
 ## What are we?
 I am [~data](https://data.tilde.team). An online identity that aims to make it easier for others to remember and find the work of the person behind me.
