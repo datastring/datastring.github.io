@@ -3,7 +3,6 @@ layout: mainpage
 title: /uses
 url: /uses
 ---
-# {{ page.title }}
 *Last updated on July 02, 2022.*
 >This page is inspired by [/uses](https://uses.tech/) pages. These are the devices, applications and tools, which I use daily, that make my life easier.
 <hr>
@@ -28,7 +27,7 @@ url: /uses
 - [NextDNS](https://nextdns.io/)
 - [Mailfence](https://mailfence.com/)
 
-### Other Apps
+#### Other Apps
 - [Be My Eyes](https://www.bemyeyes.com/)
 - [Aegis Authenticator](https://getaegis.app/)
 - [K-9 Mail](https://k9mail.app/)

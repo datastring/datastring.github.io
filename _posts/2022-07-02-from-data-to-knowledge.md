@@ -4,9 +4,6 @@ title: "From Data to Knowledge"
 tags: markdown blogging introduction 2022-07-02
 date: 2022-07-02
 ---
-# {{ page.title }}
-<hr>
-
 Hi, there. 👋 For your own sake, I hope you are not lost.  
 Let me help you figure out if you are... 😅
 

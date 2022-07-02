@@ -16,6 +16,3 @@ title: Data's Base
     <br>
     <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
 </p>
-
-<!-- <hr>
-<p align="center">⭐️ From <a href="https://github.com/datastring">@datastring</a></p> -->
