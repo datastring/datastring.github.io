@@ -3,7 +3,7 @@ title: /uses
 ---
 # {{ page.title }}
 *Last updated on July 02, 2022.*
-
+<hr>
 >This page is inspired by [/uses](https://uses.tech/) pages. These are the devices, applications and tools, which I use daily, that make my life easier.
 
 # Tools, apps and devices I use
@@ -11,6 +11,7 @@ title: /uses
 ## Hardware
 - Desktop computer: Windows 10 / Debian
 - Lenovo ThinkPad T430s: Manjaro
+- Steam Deck: *on the way.*
 
 ## Software
 ### Daily Driver
@@ -18,38 +19,23 @@ title: /uses
 - [Logseq](https://logseq.com/)
 - [Todoist](https://todoist.com/)
 - [Raindrop.io](https://raindrop.io/)
+- [Visual Studio Code](https://github.com/microsoft/vscode)
 
-## Up-and-Coming
-- [Pinboard.in](https://pinboard.in/)
-- [NextDNS](https://nextdns.io/)
-- [Hypothes.is](https://web.hypothes.is/)
+## Sidekicks
 - [Nextcloud](https://nextcloud.com/)
+- [Hypothes.is](https://web.hypothes.is/)
+- [NextDNS](https://nextdns.io/)
+- [Mailfence](https://mailfence.com/)
 
-### Mobile Apps
+### Other Apps
 - [Be My Eyes](https://www.bemyeyes.com/)
 - [Aegis Authenticator](https://getaegis.app/)
-- [JuiceSSH](https://juicessh.com/)
-- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey&hl=en_US&gl=US)
-- [Podcast Addict ](https://podcastaddict.com/)
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 - [K-9 Mail](https://k9mail.app/)
-- [OpenKeychain](https://www.openkeychain.org/)
-- [FolderSync](https://www.tacit.dk/foldersync)
-- [Tasks.org](https://tasks.org/)
-
-### Desktop Apps
-- [Visual Studio Code](https://github.com/microsoft/vscode)
-- [AutoHotkey](https://www.autohotkey.com/)
+- [Espanso](https://espanso.org/)
 - [Bitwarden](https://bitwarden.com/)
-- [Everything](https://www.voidtools.com/support/everything/)
-- [FileZilla](https://filezilla-project.org/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [OBS Studio](https://obsproject.com/)
 - [Syncthing](https://syncthing.net/downloads/)
 - [VLC](https://www.videolan.org/vlc/)
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-
-## Ideas for more sections
-
-- Programming
-- Game Development
+- [Everything](https://www.voidtools.com/support/everything/)

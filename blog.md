@@ -3,6 +3,7 @@ title: Shallow Learning
 url: /blog
 ---
 # {{ page.title }}
+<hr>
 
 <ul>
   {% for post in site.posts %}
