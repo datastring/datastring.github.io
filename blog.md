@@ -1,7 +1,8 @@
 ---
 title: Shallow Learning
-url: /blog/
+url: /blog
 ---
+# {{ page.title }}
 
 <ul>
   {% for post in site.posts %}
@@ -11,8 +12,7 @@ url: /blog/
   {% endfor %}
 </ul>
 
-<hr>
-
+<!-- <hr>
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -20,4 +20,4 @@ url: /blog/
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
