@@ -1,7 +1,7 @@
 ---
 layout: mainpage
-title: /blog
-url: /blog
+title: /blog2
+url: /blog2
 ---
 ## Latest Posts
 
