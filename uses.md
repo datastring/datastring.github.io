@@ -6,22 +6,22 @@ url: /uses
 *Last updated on July 02, 2022.*
 >This page is inspired by [/uses](https://uses.tech/) pages. These are the devices, applications and tools, which I use daily, that make my life easier.
 <hr>
-# Tools, apps and devices I use
+## Tools, apps and devices I use
 
-## Hardware
+### Hardware
 - Desktop computer: Windows 10 / Debian
 - Lenovo ThinkPad T430s: Manjaro
 - Steam Deck: *on the way.*
 
-## Software
-### Daily Driver
+### Software
+#### Daily Driver
 - [Obsidian.md](https://obsidian.md/)
 - [Logseq](https://logseq.com/)
 - [Todoist](https://todoist.com/)
 - [Raindrop.io](https://raindrop.io/)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 
-## Sidekicks
+#### Sidekicks
 - [Nextcloud](https://nextcloud.com/)
 - [Hypothes.is](https://web.hypothes.is/)
 - [NextDNS](https://nextdns.io/)
