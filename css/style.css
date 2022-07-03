@@ -452,6 +452,14 @@ img {
 	max-width: 100%;
 }
 
-.breadcrumb li:not(:first-child)::before {
-  content: "::";
+.breadcrumb ul {
+    display: flex;
+}
+    
+.breadcrumb li::before {
+    content: "→";
+}
+    
+.breadcrumb li:first-child::before {
+    content: "";
 }
