@@ -1,5 +1,6 @@
 ---
 title: /uses
+url: https://purplewastaken.com/uses
 ---
 # {{ page.title }}
 *Last updated on July 02, 2022.*
