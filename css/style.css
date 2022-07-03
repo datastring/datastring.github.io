@@ -451,3 +451,7 @@ input {
 img {
 	max-width: 100%;
 }
+
+.breadcrumb li:not(:first-child)::before {
+  content: "::";
+}

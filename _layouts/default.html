@@ -5,21 +5,15 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=0.8">
-	  <nav>
-        {% for item in site.data.navigation %}
-          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
-        {% endfor %}
-      </nav>
-<!--     <nav>
-      <a href="/">home</a>
-      <a href="/now">/now</a>
-      <a href="/uses">/uses</a>
-      <a href="/blog">/blog</a>
-	  <a href="/blog2">/blog2</a>
-	  <a href="https://blog.purplewastaken.com/">blog(dot)</a>
-    </nav> -->
+	<nav class="breadcrumb">
+    <ul>
+        <li><span {% if page.url == item.link %}aria-current="page"{% endif %}><a href="/">Home</a></span></li>
+        <li><span {% if page.url == item.link %}aria-current="page"{% endif %}><a href="/now">Now</a></span></li>
+        <li><span {% if page.url == item.link %}aria-current="page"{% endif %}><a href="/uses">Uses</a></span></li>
+    </ul>
+	</nav>
 	<hr>
-  </head>
+	</head>
   <body>
     <!-- <nav>
       <a href="/">~data</a>
@@ -27,18 +21,11 @@
       <a href="/uses">/uses</a>
       <a href="/blog">/blog</a>
     </nav> -->
-    <!-- <h1>{{ page.title }}</h1> -->
     <section>
       {{ content }}
     </section>
-    <footer>
+<footer>
       <hr>
-      <!-- <nav style="float: left; width: 50%;">
-        <a href="/">~data</a>
-        <a href="/now">/now</a>
-        <a href="/uses">/uses</a>
-        <a href="/blog">/blog</a>
-      </nav> -->
       <nav style="float: left; width: 50%;">
         {% for item in site.data.navigation %}
           <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
@@ -48,3 +35,23 @@
     </footer>
   </body>
 </html>
+
+<!-- <nav>
+        {% for item in site.data.navigation %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
+        {% endfor %}
+      </nav> -->
+<!-- <nav>
+      <a href="/">home</a>
+      <a href="/now">/now</a>
+      <a href="/uses">/uses</a>
+      <a href="/blog">/blog</a>
+	  <a href="/blog2">/blog2</a>
+	  <a href="https://blog.purplewastaken.com/">blog(dot)</a>
+      </nav> -->
+<!-- <nav style="float: left; width: 50%;">
+        <a href="/">~data</a>
+        <a href="/now">/now</a>
+        <a href="/uses">/uses</a>
+        <a href="/blog">/blog</a>
+      </nav> -->
