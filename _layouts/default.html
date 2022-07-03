@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=0.8">
-	<nav class="breadcrumb">
+	<nav <nav aria-label="Breadcrumb" class="breadcrumb">
     <ul>
         <li><span {% if page.url == item.link %}aria-current="page"{% endif %}><a href="/">Home</a></span></li>
         <li><span {% if page.url == item.link %}aria-current="page"{% endif %}><a href="/now">Now</a></span></li>
