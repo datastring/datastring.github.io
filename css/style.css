@@ -17,7 +17,8 @@
 	/* Dark theme */
 	--nc-d-tx-1: #ffffff;
 	--nc-d-tx-2: #eeeeee;
-	--nc-d-bg-1: #000000;
+	--nc-d-bg-1: #212529;
+	/* --nc-d-bg-1: #000000; */
 	--nc-d-bg-2: #111111;
 	--nc-d-bg-3: #222222;
 	--nc-d-lk-1: #3291FF;
