@@ -1,8 +1,8 @@
 - name: /home
   link: /
 - name: /now
-  link: /now
+  link: https://purplewastaken.com/now
 - name: /uses
-  link: /uses
+  link: https://purplewastaken.com/uses
 - name: /blog
   link: https://blog.purplewastaken.com
