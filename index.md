@@ -1,7 +1,6 @@
 ---
 title: Data's Base
 ---
-
 <p align="center" style="font-family: var(--nc-font-mono);">
     <br>
     <br>

@@ -1,7 +1,7 @@
 ---
-layout: mainpage
 title: /uses
 ---
+# {{ page.title }}
 *Last updated on July 02, 2022.*
 >This page is inspired by [/uses](https://uses.tech/) pages. These are the devices, applications and tools, which I use daily, that make my life easier.
 <hr>
