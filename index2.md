@@ -14,17 +14,17 @@ title: Index 2 - Test Page
     <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
 </p>
 
-<details
-<summary>
-/now
-</summary style="text-align:center;">>
-<h1>/now</h1>
+<details>
+<summary style="text-align:center;">
+What am I doing right now?
+</summary>
+<b><large>/now</b></large>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://nownownow.com/about">Derek Sivers</a>. In it, you can stay up-to-date with exactly what I&#39;m up to at this point in my life.</p>
 <p><hr></p>
-<h2>What I&#39;m doing right now</h2>
 </blockquote>
+<!-- <h2>What I&#39;m doing right now</h2> -->
 <h3>As of July 2022, I am:</h3>
 <ul>
 <li>...learning and experimenting in the <a href="https://tildeverse.org">tildeverse</a>.  </li>
@@ -37,15 +37,15 @@ title: Index 2 - Test Page
 
 <details>
 <summary style="text-align:center;">
-/uses
+Which tools am I using right now?
 </summary>
-<h1>/uses</h1>
+<b>/uses</b>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://uses.tech/">/uses</a> pages. These are the devices, applications and tools, which I use daily, that make my life easier.</p>
 <p><hr></p>
-<h2>Tools, apps and devices I use</h2>
 </blockquote>
+<!-- <h2>Tools, apps and devices I use</h2> -->
 <h3>Hardware</h3>
 <ul>
 <li>Desktop computer: Windows 10 / Debian</li>
