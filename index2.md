@@ -18,7 +18,7 @@ title: Index 2 - Test Page
 <summary style="text-align:center;">
 What am I doing right now?
 </summary>
-<b><large>/now</b></large>
+<h2>/now</h2>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://nownownow.com/about">Derek Sivers</a>. In it, you can stay up-to-date with exactly what I&#39;m up to at this point in my life.</p>
@@ -35,11 +35,13 @@ What am I doing right now?
 </ul>
 </details>
 
+<br>
+
 <details>
 <summary style="text-align:center;">
 Which tools am I using right now?
 </summary>
-<b>/uses</b>
+<h2>/uses</h2>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://uses.tech/">/uses</a> pages. These are the devices, applications and tools, which I use daily, that make my life easier.</p>
