@@ -15,18 +15,17 @@ title: Index 2 - Test Page
 </p>
 
 <details style="text-align:center;">
-
 <summary>
 /now
 </summary>
-<h1 id="-now">/now</h1>
+<h1>/now</h1>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://nownownow.com/about">Derek Sivers</a>. In it, you can stay up-to-date with exactly what I&#39;m up to at this point in my life.</p>
 <p><hr></p>
-<h2 id="what-i-m-doing-right-now">What I&#39;m doing right now</h2>
+<h2>What I&#39;m doing right now</h2>
 </blockquote>
-<h3 id="as-of-july-2022-i-am-">As of July 2022, I am:</h3>
+<h3>As of July 2022, I am:</h3>
 <ul>
 <li>...learning and experimenting in the <a href="https://tildeverse.org">tildeverse</a>.  </li>
 <li>...blogging on <a href="https://mataroa.blog/">mataroa</a>.  </li>
@@ -34,28 +33,27 @@ title: Index 2 - Test Page
 <li>...getting organized with some new tools.  </li>
 <li>...learning about the <a href="https://github.com/godotengine/godot">Godot</a> game engine.</li>
 </ul>
-
 </details>
 
 <details style="text-align:center;">
 <summary>
 /uses
 </summary>
-<h1 id="-uses">/uses</h1>
+<h1>/uses</h1>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
 <p>This page is inspired by <a href="https://uses.tech/">/uses</a> pages. These are the devices, applications and tools, which I use daily, that make my life easier.</p>
 <p><hr></p>
-<h2 id="tools-apps-and-devices-i-use">Tools, apps and devices I use</h2>
+<h2>Tools, apps and devices I use</h2>
 </blockquote>
-<h3 id="hardware">Hardware</h3>
+<h3>Hardware</h3>
 <ul>
 <li>Desktop computer: Windows 10 / Debian</li>
 <li>Lenovo ThinkPad T430s: Manjaro</li>
 <li>Steam Deck: <em>on the way.</em></li>
 </ul>
-<h3 id="software">Software</h3>
-<h4 id="daily-driver">Daily Driver</h4>
+<h3>Software</h3>
+<h4>Daily Driver</h4>
 <ul>
 <li><a href="https://obsidian.md/">Obsidian.md</a></li>
 <li><a href="https://logseq.com/">Logseq</a></li>
@@ -63,14 +61,14 @@ title: Index 2 - Test Page
 <li><a href="https://raindrop.io/">Raindrop.io</a></li>
 <li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
 </ul>
-<h4 id="sidekicks">Sidekicks</h4>
+<h4>Sidekicks</h4>
 <ul>
 <li><a href="https://nextcloud.com/">Nextcloud</a></li>
 <li><a href="https://web.hypothes.is/">Hypothes.is</a></li>
 <li><a href="https://nextdns.io/">NextDNS</a></li>
 <li><a href="https://mailfence.com/">Mailfence</a></li>
 </ul>
-<h4 id="other-apps">Other Apps</h4>
+<h4>Other Apps</h4>
 <ul>
 <li><a href="https://www.bemyeyes.com/">Be My Eyes</a></li>
 <li><a href="https://getaegis.app/">Aegis Authenticator</a></li>
