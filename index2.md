@@ -22,12 +22,12 @@ title: Index 2 - Test Page
     <p><em>Last updated on July 02, 2022.</em></p>
     <blockquote>
         <p><i>This section is inspired by <a href="https://nownownow.com/about">Derek Sivers</a>. In it, you can stay
-            up-to-date with exactly what I&#39;m up to at this point in my life.</i></p>
+                up-to-date with exactly what I&#39;m up to at this point in my life.</i></p>
     </blockquote>
-            <hr>
+    <hr>
     <!-- <h2>What I&#39;m doing right now</h2> -->
     <h4>As of July 2022, I am:</h4>
-	<strong>As of July 2022, I am:</strong>
+    <strong>As of July 2022, I am:</strong>
     <ul>
         <li>...learning and experimenting in the <a href="https://tildeverse.org">tildeverse</a>. </li>
         <li>...blogging on <a href="https://mataroa.blog/">mataroa</a>. </li>
@@ -38,18 +38,19 @@ title: Index 2 - Test Page
 </details>
 
 <details>
-	    <summary style="text-align:center;">
+    <summary style="text-align:center;">
         <strong>/uses</strong>
     </summary>
     <h3>Which tools am I using right now?</h3>
     <p><em>Last updated on July 02, 2022.</em></p>
     <blockquote>
-        <p><i>This section is inspired by <a href="https://uses.tech/">/uses</a> pages. These are the devices, applications
-            and tools, which I use daily, that make my life easier.</i></p>
+        <p><i>This section is inspired by <a href="https://uses.tech/">/uses</a> pages. These are the devices,
+                applications
+                and tools, which I use daily, that make my life easier.</i></p>
         <p>
     </blockquote>
-            <hr>
-        </p>
+    <hr>
+    </p>
     <!-- <h2>Tools, apps and devices I use</h2> -->
     <h4>Hardware</h4>
     <ul>
