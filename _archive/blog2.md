@@ -1,8 +1,3 @@
----
-layout: mainpage
-title: /blog2
-url: /blog2
----
 ## Latest Posts
 
 <div>
