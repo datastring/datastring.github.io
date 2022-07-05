@@ -16,7 +16,7 @@ title: Index 2 - Test Page
     <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
 </p>
 
-<details>
+<details style="align:center;">
 <summary>
 Click here.
 </summary>
