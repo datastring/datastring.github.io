@@ -14,10 +14,10 @@ title: Index 2 - Test Page
     <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
 </p>
 
-<details style="text-align:center;">
+<details
 <summary>
 /now
-</summary>
+</summary style="text-align:center;">>
 <h1>/now</h1>
 <p><em>Last updated on July 02, 2022.</em></p>
 <blockquote>
@@ -35,8 +35,8 @@ title: Index 2 - Test Page
 </ul>
 </details>
 
-<details style="text-align:center;">
-<summary>
+<details>
+<summary style="text-align:center;">
 /uses
 </summary>
 <h1>/uses</h1>
