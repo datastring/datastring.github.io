@@ -15,8 +15,8 @@ title: Index 2 - Test Page
 </p>
 
 <details>
-    <summary style="text-align:center;>
-        <strong>What am I doing right now?,/strong>
+    <summary style="text-align:center;">
+        <strong>What am I doing right now?</strong>
     </summary>
     <h2>/now</h2>
     <p><em>Last updated on July 02, 2022.</em></p>
