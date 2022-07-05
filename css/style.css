@@ -451,3 +451,8 @@ input {
 img {
 	max-width: 100%;
 }
+
+/* Added by self. */
+html {
+  scroll-behavior: smooth;
+}

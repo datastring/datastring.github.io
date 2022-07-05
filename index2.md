@@ -13,7 +13,7 @@ title: Index 2 - Test Page
     <br>
     <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
 </p>
-
+<a href="#uses">go to uses test</a>
 <details>
     <summary style="text-align:center;">
         What am I doing right now?
@@ -38,7 +38,7 @@ title: Index 2 - Test Page
     </ul>
 </details>
 
-<details>
+<details id="uses">
     <summary style="text-align:center;">
         Which tools am I using right now?
     </summary>
