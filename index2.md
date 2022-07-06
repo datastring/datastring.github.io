@@ -1,3 +1,6 @@
+---
+title: Index Test Page
+---
 <p align="center" style="font-family: var(--nc-font-mono);">
     <br>
     <br>
