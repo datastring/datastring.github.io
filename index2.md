@@ -1,6 +1,3 @@
----
-title: Index 2 - Test Page
----
 <p align="center" style="font-family: var(--nc-font-mono);">
     <br>
     <br>
@@ -89,3 +86,60 @@ title: Index 2 - Test Page
         <li><a href="https://www.voidtools.com/support/everything/">Everything</a></li>
     </ul>
 </details>
+
+- [Be My Eyes](https://www.bemyeyes.com/)
+- [Aegis Authenticator](https://getaegis.app/)
+- [K-9 Mail](https://k9mail.app/)
+- [Espanso](https://espanso.org/)
+- [Bitwarden](https://bitwarden.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [OBS Studio](https://obsproject.com/)
+- [Syncthing](https://syncthing.net/downloads/)
+- [VLC](https://www.videolan.org/vlc/)
+- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+- [Everything](https://www.voidtools.com/support/everything/)
+
+---
+
+## Table Shenanigans
+
+|                                                                   |
+|-------------------------------------------------------------------|
+| - [Be My Eyes](https://www.bemyeyes.com/)                         |
+| - [Aegis Authenticator](https://getaegis.app/)                    |
+| - [K-9 Mail](https://k9mail.app/)                                 |
+| - [Espanso](https://espanso.org/)                                 |
+| - [Bitwarden](https://bitwarden.com/)                             |
+| - [Notepad++](https://notepad-plus-plus.org/)                     |
+| - [OBS Studio](https://obsproject.com/)                           |
+| - [Syncthing](https://syncthing.net/downloads/)                   |
+| - [VLC](https://www.videolan.org/vlc/)                            |
+| - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) |
+| - [Everything](https://www.voidtools.com/support/everything/)     |
+
+Software table
+-----|-----
+Be My eyes|[Link](https://www.bemyeyes.com/)
+Aegis Authenticator|[Link](https://getaegis.app/)
+K-9 Mail|[Link](https://k9mail.app/)
+Espanso|[Link](https://espanso.org/)
+Bitwarden|[Link](https://bitwarden.com/)
+Notepad++|[Link](https://notepad-plus-plus.org/)
+OBS Studio|[Link](https://obsproject.com/)
+Syncthing|[Link](https://syncthing.net/downloads/)
+VLC|[Link](https://www.videolan.org/vlc/)
+Flow Launcher|[Link](https://github.com/Flow-Launcher/Flow.Launcher)
+Everything|[Link](https://www.voidtools.com/support/everything/)
+
+Raw List
+[Be My Eyes](https://www.bemyeyes.com/)
+[Aegis Authenticator](https://getaegis.app/)
+[K-9 Mail](https://k9mail.app/)
+[Espanso](https://espanso.org/)
+[Bitwarden](https://bitwarden.com/)
+[Notepad++](https://notepad-plus-plus.org/)
+[OBS Studio](https://obsproject.com/)
+[Syncthing](https://syncthing.net/downloads/)
+[VLC](https://www.videolan.org/vlc/)
+[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+[Everything](https://www.voidtools.com/support/everything/)
