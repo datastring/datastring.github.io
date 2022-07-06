@@ -90,21 +90,12 @@ title: Index Test Page
     </ul>
 </details>
 
-- [Be My Eyes](https://www.bemyeyes.com/)
-- [Aegis Authenticator](https://getaegis.app/)
-- [K-9 Mail](https://k9mail.app/)
-- [Espanso](https://espanso.org/)
-- [Bitwarden](https://bitwarden.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [OBS Studio](https://obsproject.com/)
-- [Syncthing](https://syncthing.net/downloads/)
-- [VLC](https://www.videolan.org/vlc/)
-- [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-- [Everything](https://www.voidtools.com/support/everything/)
 
 ---
 
+
 ## Table Shenanigans
+
 
 |                                                                   |
 |-------------------------------------------------------------------|
@@ -120,6 +111,7 @@ title: Index Test Page
 | - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) |
 | - [Everything](https://www.voidtools.com/support/everything/)     |
 
+
 Software table
 -----|-----
 Be My eyes|[Link](https://www.bemyeyes.com/)
@@ -133,6 +125,7 @@ Syncthing|[Link](https://syncthing.net/downloads/)
 VLC|[Link](https://www.videolan.org/vlc/)
 Flow Launcher|[Link](https://github.com/Flow-Launcher/Flow.Launcher)
 Everything|[Link](https://www.voidtools.com/support/everything/)
+
 
 Raw List
 [Be My Eyes](https://www.bemyeyes.com/)
