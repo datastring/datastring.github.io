@@ -1,44 +1,37 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-	<meta name="viewport" content="width=device-width, initial-scale=0.8">
-	<nav>
-      <a href="/"{% if page.url == "/" %} style="color: #7928CA;"{% endif %}>~data</a>
-      <a href="/now"{% if page.url == "/now" %} style="color: #7928CA;"{% endif %}>/now</a>
-      <a href="/uses"{% if page.url == "/uses" %} style="color: #7928CA;"{% endif %}>/uses</a>
-      <a href="https://blog.purplewastaken.com/"{% if page.url == "https://blog.purplewastaken.com/" %} style="color: #7928CA;"{% endif %}>/blog</a>
-    </nav>
-	<hr>
-	</head>
-  <body>
-    <section>
-      {{ content }}
-    </section>
-	<footer>
-      <hr>
-      <nav style="float: left; width: 50%;">
-        {% for item in site.data.navigation %}
-          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
-        {% endfor %}
-      </nav>
-      <div style="float: right; width: 50%;"><p align="right" style="font-family: var(--nc-font-mono);">⭐️From <a href="https://github.com/datastring">@datastring</a></p></div>
-    </footer>
-  </body>
-</html>
 
-<!-- <nav>
-        {% for item in site.data.navigation %}
-          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
-        {% endfor %}
-      </nav> -->
-<!-- <nav>
-      <a href="/">home</a>
-      <a href="/now">/now</a>
-      <a href="/uses">/uses</a>
-      <a href="/blog">/blog</a>
-	  <a href="/blog2">/blog2</a>
-	  <a href="https://blog.purplewastaken.com/">blog(dot)</a>
-      </nav> -->
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=0.75">
+  <nav>
+    <a href="/" {% if page.url=="/" %} style="color: #7928CA;" {% endif %}>/home</a>
+    <a href="/now" {% if page.url=="https://purplewastaken.com/now" %} style="color: #7928CA;" {% endif %}>/now</a>
+    <a href="/uses" {% if page.url=="https://purplewastaken.com/uses" %} style="color: #7928CA;" {% endif %}>/uses</a>
+    <a href="https://blog.purplewastaken.com/" {% if page.url=="https://blog.purplewastaken.com/" %}
+      style="color: #7928CA;" {% endif %}>/blog</a>
+  </nav>
+  <hr>
+</head>
+
+<body>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
+    <hr>
+    <nav style="float: left; width: 50%;">
+      {% for item in site.data.navigation %}
+      <a href="{{ item.link }}"{% if page.url==item.link %} style="color: #7928CA;"{% endif %}>{{ item.name }}</a>
+      {% endfor %}
+    </nav>
+    <div style="float: right; width: 50%;">
+      <p align="right" style="font-family: var(--nc-font-mono);">⭐️From <a
+          href="https://github.com/datastring">@datastring</a></p>
+    </div>
+  </footer>
+</body>
+
+</html>
