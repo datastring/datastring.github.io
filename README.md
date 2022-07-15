@@ -8,5 +8,5 @@
     #markdown, #html, #css, #javascript
     <br>
     <br>
-    <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="350" />
+    <img src="https://media.giphy.com/media/3o7WIHsSrmSmbfdwIM/giphy.gif" width="300" />
 </p>
