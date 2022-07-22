@@ -171,7 +171,8 @@ summary {
 }
 
 :root {
-    --max-body-width: 48rem
+    /* --max-body-width: 48rem */
+    --max-body-width: 72ch
 }
 
 html {
