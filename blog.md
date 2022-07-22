@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://blog.purplewastaken.com
+target: https://datawastaken.com
 ---

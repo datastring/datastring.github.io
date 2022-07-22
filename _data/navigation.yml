@@ -1,2 +1,4 @@
-- name: /blog
+- name: /home
   link: https://datawastaken.com
+- name: /blog
+  link: https://datawastaken.com/blog/
